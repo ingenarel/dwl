@@ -1,3 +1,4 @@
 dwl
 *.o
 .ccls-cache
+*-protocol.h
